@@ -3,6 +3,6 @@
 - 👨‍💻  Developer at [ThoughtWorks](https://thoughtworks.com)
 - 🏢 Organizer for [freeCodeCamp-XiAn](https://github.com/orgs/freeCodeCamp-XiAn)
 - 🔭 Working on `Payment`
-- 🌱 Learning [Deno](https://deno.land/),`4 metrix`,  `Web Application Security`
+- 🌱 Learning [Deno](https://deno.land/),`4 metrics`,  `Web Application Security`
 - 💬 Ask me about `Frontend`, `Typescript`...
 - 🔎 How to reach me: [guzhognren@live.cn](guzhognren@live.cn) or [Wechat：GuzhongrenWX]()
