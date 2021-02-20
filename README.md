@@ -7,6 +7,9 @@
 - 💬 Ask me about `Frontend`, `Typescript`...
 - 🔎 How to reach me: [guzhognren@live.cn](guzhognren@live.cn) or [Wechat：GuzhongrenWX]()
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Languages:
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
