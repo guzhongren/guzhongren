@@ -9,11 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Gettext Catalog   2 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   37.84 % 
-Rust              1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.80 % 
-JavaScript        31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Markdown          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON              20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Gettext Catalog   2 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   39.33 % 
+Rust              1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Markdown          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+JavaScript        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TOML              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 <!--END_SECTION:waka-->
 
