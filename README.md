@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   41 mins         █████████████████████████   100.00 % 
+Markdown     1 hr 11 mins    █████████████████████▓░░░   86.71 % 
+Git          9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
 
