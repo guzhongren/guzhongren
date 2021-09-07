@@ -9,11 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   39.16 % 
-JSON         52 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-TOML         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Markdown     31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
