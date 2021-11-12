@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     25 mins         ████████████████▒░░░░░░░░   65.89 % 
-TypeScript   11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.59 % 
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Markdown   25 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
