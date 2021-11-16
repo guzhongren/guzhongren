@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   39 mins         █████████████▒░░░░░░░░░░░   53.33 % 
+Bash    29 mins         ██████████░░░░░░░░░░░░░░░   39.55 % 
+VimL    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 <!--END_SECTION:waka-->
 
