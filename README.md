@@ -2,7 +2,7 @@
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api/wakatime?username=guzhongren&layout=compact" alt="guzhongren's wakatime stats" />
 
-- 👨‍💻  Developer at [ThoughtWorks](https://thoughtworks.com)
+- 👨‍💻 Fullstack developer at [ThoughtWorks](https://thoughtworks.com)
 - 🏢 Organizer for [freeCodeCamp-XiAn](https://github.com/orgs/freeCodeCamp-XiAn)
 - 🔭 Working on `Payment`
 - 🌱 Learning [Deno](https://deno.land/),`4 metrics`,  `Web Application Security`
